@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **ASP.NET Core, Web API, Telegram Bot**
 
-- 📫 How to reach me **[Email](salomovelmurod062@gmail.com)**
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELMURODSALOMOV&hide_progress=true&theme=radical" alt="bdviett" height="200" width="400"/>
