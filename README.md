@@ -3,5 +3,5 @@
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELMURODSALOMOV&hide_progress=true&theme=radical" alt="bdviett" height="200" width="360"/>
-![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ELMURODSALOMOV&layout=compact)      
-![Status](https://github-readme-stats.vercel.app/api?username=ELMURODSALOMOV&show_icons=true&theme=dark) 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ELMURODSALOMOV&show_icons=true&theme=radical" alt="bdviett" height="200"width="400" />
+</p>
