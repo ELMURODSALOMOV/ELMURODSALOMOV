@@ -14,7 +14,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELMURODSALOMOV&hide_progress=true&theme=radical" alt="bdviett" height="200" width="360"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ELMURODSALOMOV&show_icons=true&theme=radical" alt="bdviett" height="200"width="400" />
 </p>
-<a href="https://t.me/https://t.me/Elmurod_Salomov" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
 <h3 align="left">Connect with me:</h3>
+<a href="https://t.me/https://t.me/Elmurod_Salomov" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
 alt="bdviett" height="40" width="35" /></a>
 <a href="https://instagram.com/salomov3732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdviett" height="30" width="40" /></a>
