@@ -16,5 +16,5 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/salomov3732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdviett" height="45" width="40" /></a>
-<a href="https://t.me/@Elmurod_Salomov" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
+<a href="https://t.me/Elmurod_Salomov" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
 alt="bdviett" height="40" width="35" /></a>
