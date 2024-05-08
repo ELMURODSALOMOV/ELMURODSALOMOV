@@ -8,7 +8,7 @@
 - 📫 How to reach me **[Email](salomovelmurod062@gmail.com)**
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELMURODSALOMOV&hide_progress=true&theme=radical" alt="bdviett" height="250" width="500"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELMURODSALOMOV&hide_progress=true&theme=radical" alt="bdviett" height="200" width="500"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ELMURODSALOMOV&show_icons=true&theme=radical" alt="bdviett" height="200"width="400" />
 </p>
 <h3 align="left">Connect with me:</h3>
