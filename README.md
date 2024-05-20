@@ -16,6 +16,7 @@
   <img align="center" src="https://github.r2v.ch/codewars?user=ELMURODSALOMOV&stroke=%23BB432C" alt="CodeWars" height="200" width="400" />
 </p>
 <h3 align="left">Connect with me:</h3>
+
 <a href="https://www.linkedin.com/in/elmurod-salomov-b22076220" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" 
 alt="bdviett" height="35" width="25" /></a>
 <a href="https://www.instagram.com/salomov3732?igsh=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdviett" height="45" width="40" /></a>
