@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/elmurod-salomov-b22076220" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" 
-alt="bdviett" height="35" width="25" /></a>
+alt="bdviett" height="45" width="35" /></a>
 <a href="https://www.instagram.com/salomov3732?igsh=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdviett" height="45" width="40" /></a>
 <a href="https://t.me/Elmurod_Salomov" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
 alt="bdviett" height="40" width="35" /></a>
