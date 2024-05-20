@@ -22,3 +22,5 @@ alt="bdviett" height="40" width="35" /></a>
 <a href="https://www.instagram.com/salomov3732?igsh=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdviett" height="45" width="40" /></a>
 <a href="https://t.me/Elmurod_Salomov" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
 alt="bdviett" height="40" width="35" /></a>
+<a href="https://medium.com/@salomovelmurod062" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/medium_m_logo_icon_145072.png" 
+alt="bdviett" height="45" width="35" /></a>
