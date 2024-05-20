@@ -24,3 +24,5 @@ alt="bdviett" height="40" width="35" /></a>
 alt="bdviett" height="40" width="35" /></a>
 <a href="https://medium.com/@salomovelmurod062" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/medium_m_logo_icon_145072.png" 
 alt="bdviett" height="45" width="35" /></a>
+<a href="https://www.codewars.com/users/ELMURODSALOMOV/" target="blank"><img align="center" width="120" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codewars_button_icon_151901.png" 
+alt="bdviett" height="35" width="1200"/></a>
