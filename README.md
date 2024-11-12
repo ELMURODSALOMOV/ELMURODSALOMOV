@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ELMURODSALOMOV,&desc=Backend%20developer&fontSize=55&fontAlignY=40&fontAlign=44&descAlignY=53&descAlign=53&animation=fadeIn)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6413F7&center=true&random=false&width=435&lines=Hi+there%2C+I'm+Elmurod+%F0%9F%91%8B;I+am+a+.Net+developer%F0%9F%92%BB)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **.NET || C#**
